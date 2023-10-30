@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591011445927",
+    "project_id": "praktek-11",
+    "storage_bucket": "praktek-11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591011445927:android:b65a54c1f5f607fe34ef82",
+        "android_client_info": {
+          "package_name": "com.example.basic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSWZjSCNNmQ-p_C0rRl8LIYpcucrsKFgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
